@@ -1,2 +1,2 @@
 # git-aliases
-the aliases I use for git commands
+the aliases I've written or collected for git commands
